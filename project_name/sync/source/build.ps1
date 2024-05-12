@@ -1,0 +1,1 @@
+Invoke-ps2exe script.ps1 ..\SyncScriptLevelLoomers.exe
