@@ -1,3 +1,4 @@
+![](https://github.com/dertwist/Cs2-Sync-Script/blob/652155268118e55a7e0190265b963266ab71289e/images/dem_01.gif)
 1. Place "project_name" folder to the Dropbox foder and change the name.
 2. Share a Dropbox folder with your friend.
 3. Run SS_LevelLoomers_gui.exe as administrator..
